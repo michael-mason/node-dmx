@@ -1,6 +1,6 @@
 "use strict"
 
-var DMX = require('./dmx');
+var DMX = require('../dmx');
 var A = DMX.Animation;
 
 var dmx = new DMX();
